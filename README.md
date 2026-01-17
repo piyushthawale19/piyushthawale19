@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Gen-AI**
 
-- 👯 I’m looking to collaborate on **Front-End/MERN-Stack/FUll-Stack Project**
+- 👯 I’m looking to collaborate on ** Front-End/ MERN-Stack/ Full-Stack Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/piyushthawale19](https://github.com/piyushthawale19)
 
