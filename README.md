@@ -7,9 +7,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=piyushthawale19&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🌱 I’m currently learning **Rect.js**
+- 🌱 I’m currently learning **Gen-AI**
 
-- 👯 I’m looking to collaborate on **Front-End/Data-Base Project**
+- 👯 I’m looking to collaborate on **Front-End/MERN-Stack/FUll-Stack Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/piyushthawale19](https://github.com/piyushthawale19)
 
