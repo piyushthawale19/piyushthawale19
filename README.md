@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Thawale</h1>
-<h3 align="center">A passionate Frontend also Data base developer from India</h3>
+<h3 align="center">A passionate Full-Stack also MERN-Stack Handling developer DataBase from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushthawale19&label=Profile%20views&color=0e75b6&style=flat" alt="piyushthawale19" /> </p>
 
