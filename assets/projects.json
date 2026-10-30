@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "smart-developer-assistant",
+      "description": "AI-powered developer assistant for project-level debugging, code execution, API workflows, and development assistance. Built with React.js, Node.js, Express.js, MongoDB, and LLM APIs."
+    },
+    {
+      "repo": "agentic-studio",
+      "description": "AI-powered platform for creating and working with AI-driven content and automation workflows. Built with Next.js, TypeScript, Convex, Clerk, Gemini API, DALL·E, and YouTube API."
+    },
+    {
+      "repo": "woodcraft-furnishings",
+      "description": "Full-stack furniture e-commerce website with product catalogues, authentication, admin management, and inquiry functionality. Built with React.js, Django, MySQL, and Simple JWT."
+    },
+    {
+      "repo": "yummy-fi",
+      "description": "Food delivery and tiffin service platform with customer-facing and admin functionality. Built with Next.js, Tailwind CSS, MongoDB, Firebase, and Socket.io."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Language & Tech Stack",
+  "_comment": "Hand-authored stack radar (was auto-pulled from GitHub language bytes). Values 0-100. Edit these and the Charts workflow redraws it.",
+  "axes": [
+    { "label": "JavaScript",     "value": 88 },
+    { "label": "TypeScript",     "value": 84 },
+    { "label": "Python",         "value": 78 },
+    { "label": "Java",           "value": 72 },
+    { "label": "SQL",            "value": 76 },
+    { "label": "CSS / Tailwind", "value": 80 }
+  ]
+}
